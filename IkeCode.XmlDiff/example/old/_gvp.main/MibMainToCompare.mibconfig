@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mibConfig>
+  <default>
+    <rootUrl>UrlOldExample</rootUrl>
+	<oldDefaultRemove></oldDefaultRemove>
+  </default>
+  
+  <oldSectionRemove>
+	<oldKeyRemove></oldKeyRemove>
+  </oldSectionRemove>
+</mibConfig>

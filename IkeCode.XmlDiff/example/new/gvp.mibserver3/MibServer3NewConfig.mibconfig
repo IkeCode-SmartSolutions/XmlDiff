@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mibConfig xmlns="gvpmibserver3_MibApiClientConfig">
+  <default>
+    <url>http://local.mibapi.gvp.mediaibox.com.br</url>
+  </default>
+</mibConfig>

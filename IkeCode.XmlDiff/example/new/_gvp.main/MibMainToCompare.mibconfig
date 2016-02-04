@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mibConfig xmlns="_gvpmain_MibAuthorizationServerConfig">
+  <default>
+    <rootUrl>UrlNew</rootUrl>
+	<gitDefaultChaveNew></gitDefaultChaveNew>
+  </default>
+  
+  <gitNew>
+	<gitChaveNew></gitChaveNew>
+  </gitNew>
+</mibConfig>

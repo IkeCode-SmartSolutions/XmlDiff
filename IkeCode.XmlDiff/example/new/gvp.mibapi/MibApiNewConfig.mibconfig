@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mibConfig xmlns="gvpmibapi_MibAuthorizationClientConfig">
+  <default>
+    <serverUrl>http://local.mibauthorization.gvp.mediaibox.com.br</serverUrl>
+    <callbackUrl>http://local.mibauthorization.gvp.mediaibox.com.br/user/me</callbackUrl>
+  </default>
+</mibConfig>

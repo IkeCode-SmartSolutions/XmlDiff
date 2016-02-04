@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mibConfig xmlns="_gvpmain_MibCryptoConfig">
+  <default>
+    <!-- Make sure it is the same keys used in MIB - this keys will be use to authenticate MIB requisitions for DRM Midias   -->
+    <AESKey>F08228A50C349AB9C9D6D37452228B04CA1AFC7082DFB4FD809C124376CB1D64</AESKey>
+    <DESKey>BC29910726F3438C</DESKey>
+  </default>
+</mibConfig>
